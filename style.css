@@ -100,7 +100,7 @@
 }
 
 .hero.content.div-img img{
-    width: 100%;
+    width: 100%;    
 }
 
 .soc-link{
@@ -184,6 +184,7 @@
     transform: scale(0.8);
     animation: fade-img .5s linear forwards;
     animation-delay: 2.1s;
+    border-radius: 20px;
 }
 
 @keyframes fade-img {
